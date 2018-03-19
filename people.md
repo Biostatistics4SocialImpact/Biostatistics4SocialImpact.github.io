@@ -52,7 +52,7 @@ permalink: /people/
       <td>Jung Yeon Won received her M.S. in Statistics at the University of Michigan in 2016 and is currently a first year PhD student in Biostatistics. She is working on statistical approaches to correct spatially correlated measurement errors. Her research interests are in spatial data analysis, large data sets and statistical computing. </td>
     </tr>
      <tr>
-      <td><div class="thumbdavid"></div></td>
+      <td></td>
       <td>David Lim</td>
     </tr>
      <tr>
