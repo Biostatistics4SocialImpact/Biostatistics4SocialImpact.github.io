@@ -222,7 +222,7 @@ a:hover { text-decoration: underline; }
 }
 
 .thumbfatema { 
-  background: url('/assets/fatema.jpg') 50% 50% no-repeat; /* 50% 50% centers image in div */
+  background: url('/assets/fatema.png') 50% 50% no-repeat; /* 50% 50% centers image in div */
   width: 144px;
   height: 212px;
 }
@@ -240,7 +240,7 @@ a:hover { text-decoration: underline; }
 }
 
 .thumbwhiteman { 
-  background: url('/assets/whiteman.jpg') 50% 50% no-repeat; /* 50% 50% centers image in div */
+  background: url('/assets/whiteman.png') 50% 50% no-repeat; /* 50% 50% centers image in div */
   width: 144px;
   height: 212px;
 }
