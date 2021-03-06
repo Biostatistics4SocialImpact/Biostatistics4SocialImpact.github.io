@@ -19,13 +19,13 @@ permalink: /people/
   </tbody>
 </table>
 
-## Data Scientists
+## Senior Statistician
 
 <table>
   <tbody>
     <tr>
       <td><div class="thumbskaza"></div></td>
-      <td> <a href="http://jskaza.github.io">Jonathan Skaza</a> received his M.S. in Biostatistics from the University of Michigan in 2017, working on statistical methods and applications in the modeling of cortisol, a biomarker of stress. His research interests are in statistical computing, data science, reproducible research, mental health statistics, and statistics in sports. </td>
+      <td> Jeff Moore received his M.S. in Biostatistics from the University of Michigan in 2017, working on statistical methods and applications in the modeling of cortisol, a biomarker of stress. His research interests are in statistical computing, data science, reproducible research, mental health statistics, and statistics in sports. </td>
     </tr>
   </tbody>
 </table>
