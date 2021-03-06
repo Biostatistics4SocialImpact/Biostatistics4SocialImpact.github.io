@@ -24,16 +24,7 @@ The overarching goal is to develop methodological tools for understanding comple
 
 **Population-level interventions and community environment effects on child obesity disparities**
 
-This quasi-experimental longitudinal study will (a) examine the influence of state and federal nutrition policy interventions for schools on child obesity prevalence and on racial/ethnic obesity disparities; and (b) investigate whether and how community food environments modify the obesity influences of nutrition policy interventions. The study will generate new evidence on the effectiveness of current nutrition policy interventions to prevent child obesity and reduce disparities. Findings from this study will inform current and future population-wide strategies focused on two major public health goals—preventing child obesity and eliminating racial/ethnic disparities in health. Our lab is invested in applying state of the art statistical methods for investigating environmental effects on disparities. 
+This quasi-experimental longitudinal study will (a) examine the influence of state and federal nutrition policy interventions for schools on child obesity prevalence and on racial/ethnic obesity disparities; and (b) investigate whether and how community food environments modify the obesity influences of nutrition policy interventions. The study will generate new evidence on the effectiveness of current nutrition policy interventions to prevent child obesity and reduce disparities. Findings from this study will inform current and future population-wide strategies focused on two major public health goals—preventing child obesity and eliminating racial/ethnic disparities in health. Our lab is invested in applying state of the art statistical methods for investigating environmental effects on disparities. More info: [https://grantome.com/grant/NIH/R01-HL136718-03](https://grantome.com/grant/NIH/R01-HL136718-03)
 
 
-
-**Stress Biomarkers: Biological Meaning of Field-Friendly Salivary Measures**
-
-Psychosocial stress has a clear and profound impact on both physical and mental health; and with the advent of salivary cortisol as an easily obtained stress biomarker, there has been an explosion of studies examining psychosocial factors that influence stress systems and contribute to a wide range of health morbidity risks. However, there has been little effort to anchor field friendly stress biomarkers like salivary cortisol in more basic stress neurobiology. This study will add biological meaning to all future stress studies using salivary cortisol, enhancing efficiency, deepening understanding, and shedding greater light on how psychosocial phenomena impact biological processes and contribute to ill health.  Our lab aims to apply innovative statistical analysis such as models for functional data and clustering methods to shed light into the biological meaning of stress biomarkers.
-
-
-
-**Brain Attack Surveillance in Corpus Christi (BASIC) Project**  
-
-This project seeks to monitor and understand the tremendous stroke disparity among Mexican Americans and non-Hispanic whites. Stroke incidence, recurrence, mortality, and, in survivors, neurologic, functional and cognitive outcomes will be compared among the ethnic groups. Informal caregiving structure will be studied to improve services and tailor interventions for stroke survivors and families to improve stroke outcome and prevent second stroke.  Our lab has applied innovative statistical approaches to examine these ethnic differences more rigorously, including methods to minimize effects of selection bias and missing data.
+ 
