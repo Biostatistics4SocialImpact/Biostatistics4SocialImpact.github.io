@@ -68,7 +68,7 @@ permalink: /people/
       <td><div class="thumbdavid"></div></td>
     </tr>
      <tr>
-      <td>Fatema Shafie, MS, PhD Candidate in Biostatistics at the University of Michigan. </td>
+      <td>Fatema Shafie, MS, PhD Candidate in Biostatistics at the University of Michigan.</td>
       <td>David Lim, MS Biostatistics 2018, University of Michigan.</td>
       <td>Nuha Mahmood, MS Bioinformatics 2019, University of Michigan.</td>
       <td>Tahmeed Tureen, MS Biostatistics 2019, University of Michigan.</td>
