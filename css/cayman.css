@@ -198,6 +198,12 @@ a:hover { text-decoration: underline; }
 }
 
 .thumbberrocal { 
+  background: url('/assets/berrocal.jpg') 50% 50% no-repeat; /* 50% 50% centers image in div */
+  width: 144px;
+  height: 212px;
+}
+
+.thumbveronica { 
   background: url('/assets/veronica.jpg') 50% 50% no-repeat; /* 50% 50% centers image in div */
   width: 144px;
   height: 212px;
