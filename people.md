@@ -15,7 +15,7 @@ permalink: /people/
     </tr>
      <tr>
       <td> <a href="http://apeterson91.github.io/">Adam Peterson</a> completed his M.S. in Biostatistics at Michigan in 2017 and is currently a PhD candidate. He is interested in functional and spatial statistical methods and enjoys playing ultimate frisbee.</td>
-      <td>Jung Yeon Won received her M.S. in Statistics at the University of Michigan in 2016 and is currently a first year PhD student in Biostatistics. She is working on statistical approaches to correct spatially correlated measurement errors. Her research interests are in spatial data analysis, large data sets and statistical computing. </td>
+      <td>Jung Yeon Won received her M.S. in Statistics at the University of Michigan in 2016 and is currently a first year PhD student in Biostatistics. She is working on statistical approaches for data integration and to correct spatially correlated measurement errors in built environment datasets </td>
       <td>Kelsey Alexovitz received her M.S. in Biostatistics at the Brown University and is currently a PhD student in Biostatistics at Drexel University. She is working on statistical approaches characterize changes in the food environment near schools. </td>
     </tr>
   </tbody>
