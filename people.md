@@ -4,52 +4,19 @@ title: People
 permalink: /people/
 ---
 
-## Faculty
-
-<table>
-  <tbody>
-    <tr>
-      <td><div class="thumbbrisa"></div></td>
-      <td> <a href="https://drexel.edu/dornsife/academics/faculty/Brisa%20Sanchez/">Brisa Sánchez</a> is Dornsife Professor of Biostatistics at Drexel University. She received her Ph.D. in Biostatistics in 2006 from Harvard University. Her research interests are in statistical methodology applicable to environmental epidemiology, and social epidemiology, and health disparities.</td>
-    </tr>
-    <tr>
-      <td><div class="thumbberrocal"></div></td>
-      <td><a href="https://www.stat.uci.edu/faculty/veronica-berrocal/">Veronica Berrocal</a> is an Associate Professor of Statistics at the University of California, Irvine. She received her Ph.D. in Statistics from the University of Washington in 2007, working on developing spatial statistical models for probabilistic weather forecasting. Veronica's research focuses on developing and applying statistical models for data collected over space and/or over time. Her main applications are related to: atmospheric sciences (weather and climate data), environmental/social epidemiology (exposure to pollutants, heat, weather, built-environment, etc.), rheumatology, and also some image data.</td>
-    </tr>
-  </tbody>
-</table>
-
-## Senior Statistician
-
-<table>
-  <tbody>
-    <tr>
-      <td><div class="thumbskaza"></div></td>
-      <td> Jeff Moore received his M.S. in Biostatistics from the University of Michigan in 2017, working on statistical methods and applications in the modeling of cortisol, a biomarker of stress. His research interests are in statistical computing, data science, reproducible research, mental health statistics, and statistics in sports. </td>
-    </tr>
-  </tbody>
-</table>
-
-
 ## Students
 
 <table>
   <tbody>
     <tr>
       <td><div class="thumbpeterson"></div></td>
-      <td> <a href="http://apeterson91.github.io/">Adam Peterson</a> completed his M.S. in Biostatistics at Michigan in 2017 and is currently a PhD candidate. He is interested in functional and spatial statistical methods and enjoys playing ultimate frisbee.</td>
-    </tr>
-     <tr>
       <td><div class="thumbjung"></div></td>
+      <td><div class="thumbjung"></div></td>
+    </tr>
+     <tr>
+      <td> <a href="http://apeterson91.github.io/">Adam Peterson</a> completed his M.S. in Biostatistics at Michigan in 2017 and is currently a PhD candidate. He is interested in functional and spatial statistical methods and enjoys playing ultimate frisbee.</td>
       <td>Jung Yeon Won received her M.S. in Statistics at the University of Michigan in 2016 and is currently a first year PhD student in Biostatistics. She is working on statistical approaches to correct spatially correlated measurement errors. Her research interests are in spatial data analysis, large data sets and statistical computing. </td>
-    </tr>
-     <tr>
-      <td></td>
-      <td>David Lim</td>
-    </tr>
-     <tr>
-      <td></td>
-      <td>Nuha Mahmood</td>
+      <td>Kelsey Alexovitz received her M.S. in Biostatistics at the Brown University and is currently a PhD student in Biostatistics at Drexel University. She is working on statistical approaches characterize changes in the food environment near schools. </td>
     </tr>
   </tbody>
 </table>
@@ -69,8 +36,6 @@ permalink: /people/
     </tr>
   </tbody>
 </table>
-
-## Senior Statistician
 
 <table>
   <tbody>
@@ -106,6 +71,14 @@ permalink: /people/
      <tr>
       <td><div class="thumbfatema"></div></td>
       <td>Fatema Shafie is an M.S. in Biostatistics student at the University of Michigan. She is interested in applying biostatistics to health disparities research. </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>David Lim</td>
+    </tr>
+     <tr>
+      <td></td>
+      <td>Nuha Mahmood</td>
     </tr>
   </tbody>
 </table>
