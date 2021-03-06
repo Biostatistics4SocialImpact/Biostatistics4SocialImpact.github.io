@@ -40,8 +40,7 @@ permalink: /people/
 <table>
   <tbody>
     <tr>
-      <td><div class="thumbskaza"></div></td>
-      <td> Jeff Moore received his M.S. in Biostatistics from the University of Michigan in 2017, working on statistical methods and applications in the modeling of cortisol, a biomarker of stress. His research interests are in statistical computing, data science, reproducible research, mental health statistics, and statistics in sports. </td>
+      <td> Jeff Moore, M.S., is a Senior Statistician with our group.  After many years in industry, he joined academic research, and joined B4SI in 2019. </td>
     </tr>
   </tbody>
 </table>
