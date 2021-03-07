@@ -66,6 +66,8 @@ permalink: /people/
     <tr>
       <td><div class="thumbfatema"></div></td>
       <td><div class="thumbdavid"></div></td>
+      <td><div class="thumbnuha"></div></td>
+      <td><div class="thumbtahmeed"></div></td>
     </tr>
      <tr>
       <td>Fatema Shafie, MS, PhD Candidate in Biostatistics at the University of Michigan.</td>
