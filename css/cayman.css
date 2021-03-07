@@ -228,7 +228,7 @@ a:hover { text-decoration: underline; }
 }
 
 .thumbtahmeed { 
-  background: url('/assets/tahmeed.ng') 50% 50% no-repeat; /* 50% 50% centers image in div */
+  background: url('/assets/tahmeed.png') 50% 50% no-repeat; /* 50% 50% centers image in div */
   width: 144px;
   height: 212px;
 }
