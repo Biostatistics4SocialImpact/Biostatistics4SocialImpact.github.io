@@ -227,8 +227,20 @@ a:hover { text-decoration: underline; }
   height: 212px;
 }
 
+.thumbtahmeed { 
+  background: url('/assets/tahmeed.jpeg') 50% 50% no-repeat; /* 50% 50% centers image in div */
+  width: 144px;
+  height: 212px;
+}
+
 .thumbfatema { 
   background: url('/assets/fatema.png') 50% 50% no-repeat; /* 50% 50% centers image in div */
+  width: 144px;
+  height: 212px;
+}
+
+.thumbnuha{ 
+  background: url('/assets/nuha.png') 50% 50% no-repeat; /* 50% 50% centers image in div */
   width: 144px;
   height: 212px;
 }
