@@ -10,8 +10,7 @@ permalink: /people/
   <tbody>
     <tr>
       <td><div class="thumbpeterson"></div></td>
-      <td><div class="thumbjung"></div></td>
-      <td><div class="thumbjung"></div></td>
+      <td><div class="thumbjung"></div></td> 
     </tr>
      <tr>
       <td> <a href="http://apeterson91.github.io/">Adam Peterson</a> completed his M.S. in Biostatistics at Michigan in 2017 and is currently a PhD candidate. He is interested in functional and spatial statistical methods and enjoys playing ultimate frisbee.</td>
