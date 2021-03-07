@@ -204,9 +204,9 @@ a:hover { text-decoration: underline; }
 }
 
 .thumbveronica { 
-  background: url('/assets/veronica.jpg') 10% 80% no-repeat; /* 50% 50% centers image in div */
-  width: 144px;
-  height: 212px;
+  background: url('/assets/veronica.jpg') 50% 50% no-repeat; /* 50% 50% centers image in div */
+  width: 800px;
+  height: 800px;
 }
 
 .thumbskaza { 
