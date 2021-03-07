@@ -220,7 +220,7 @@ a:hover { text-decoration: underline; }
   width: 144px;
   height: 212px;
 }
-
+ 
 .thumbhan { 
   background: url('/assets/han.jpeg') 50% 50% no-repeat; /* 50% 50% centers image in div */
   width: 144px;
