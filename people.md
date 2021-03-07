@@ -28,7 +28,7 @@ permalink: /people/
   <tbody>
     <tr>
       <td><div class="thumbbrisa"></div></td>
-      <td><div class="thumbberrocal"></div></td>
+      <td><div class="thumbveronica"></div></td>
     </tr>
     <tr>
      <td> <a href="https://drexel.edu/dornsife/academics/faculty/Brisa%20Sanchez/">Brisa Sánchez</a> is Dornsife Professor of Biostatistics at Drexel University. She received her Ph.D. in Biostatistics in 2006 from Harvard University. Her research interests are in statistical methodology applicable to environmental epidemiology, and social epidemiology, and health disparities.</td>
